@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>open -a Shoes.app $TM_FILEPATH</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Run in Shoes</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>uuid</key>
+	<string>E7D5668C-B340-41B9-A00E-6DD78986F705</string>
+</dict>
+</plist>
