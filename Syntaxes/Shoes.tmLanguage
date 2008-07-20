@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>rb</string>
+		<string></string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)^
@@ -48,10 +48,46 @@
 	<key>patterns</key>
 	<array>
 		<dict>
-			<key>name</key>
-			<string>support.class.shoes.ruby</string>
-			<key>pattern</key>
+			<key>match</key>
 			<string>\b(stack|flow)\b</string>
+			<key>name</key>
+			<string>support.function.slots.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(arrow|fill|nofill|nostroke|line|oval|rect|rotate|shape|star|stroke|strokewidth|transform|translate)\b</string>
+			<key>name</key>
+			<string>support.function.art.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(animate|background|banner|border|button|caption|check|code|del|dialog|edit_box|edit_line|em|every|image|imagesize|ins|inscription|link|list_box|progress|para|radio|strong|sub|subtitle|sup|tagline|timer|title|video|window)\b</string>
+			<key>name</key>
+			<string>support.function.elements.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(click|finish|hover|keypress|leave|motion|release|start)\b</string>
+			<key>name</key>
+			<string>support.function.events.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(append|after|before|clear|prepend|displace|move|style|toggle)\b</string>
+			<key>name</key>
+			<string>support.other.manipulation.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(gutter|height|hide|left|remove|scroll|scroll_height|scroll_max|scroll_top|show|top|width)\b</string>
+			<key>name</key>
+			<string>support.type.styles.shoes</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(contents|parent)\b</string>
+			<key>name</key>
+			<string>variable.language.shoes</string>
 		</dict>
 		<dict>
 			<key>include</key>
