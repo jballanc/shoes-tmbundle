@@ -6,4 +6,4 @@ This is just a tiny TextMate bundle. Shoes speaks Ruby, so using this bundle req
 
 = Installation
 
-If you just want to use the bundle with TextMate, you can download shoes.tmbundle directly. Just double-click to install (requires TextMate...in case that wasn't already obvious).
+If you just want to use the bundle with TextMate, you can download the repository directly. Rename the resulting folder "Shoes.tmbundle" and just double-click to install (requires TextMate...in case that wasn't already obvious).
