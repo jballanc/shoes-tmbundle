@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.clipboard${1: = ${2:"${3:string}"}}</string>
+	<key>name</key>
+	<string>self.clipboard</string>
+	<key>tabTrigger</key>
+	<string>clip</string>
+	<key>uuid</key>
+	<string>2F1F39A7-59DC-4171-9A9C-EDF5F7013027</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>gradient(${1:color1}, ${2:color2})</string>
+	<key>name</key>
+	<string>gradient</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>tabTrigger</key>
+	<string>grad</string>
+	<key>uuid</key>
+	<string>8C729132-C908-4C4A-A2B9-551BA4B11135</string>
+</dict>
+</plist>

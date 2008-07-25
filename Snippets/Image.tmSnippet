@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>image "${1:path/to/JPEG|PNG|GIF}"${2:, [styles]} ${3:do
+  $0
+end}</string>
+	<key>name</key>
+	<string>image</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>tabTrigger</key>
+	<string>img</string>
+	<key>uuid</key>
+	<string>E298472D-8780-41EC-940E-BE4B95CAE405</string>
+</dict>
+</plist>

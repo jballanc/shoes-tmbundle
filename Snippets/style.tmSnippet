@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># adds or changes styles for any element
+style [${1:styles}]</string>
+	<key>name</key>
+	<string>style</string>
+	<key>uuid</key>
+	<string>D25F22F7-F2F2-431A-A0CC-A1C30DE5801D</string>
+</dict>
+</plist>

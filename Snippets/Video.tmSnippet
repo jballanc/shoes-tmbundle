@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>video "${1:path/to/FLV|MPEG|DivX|Xvid}"${2:, [styles]}</string>
+	<key>name</key>
+	<string>video</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>tabTrigger</key>
+	<string>video</string>
+	<key>uuid</key>
+	<string>DA4EC6B7-4B5E-486A-AD96-B7E5B903231A</string>
+</dict>
+</plist>

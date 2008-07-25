@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ins "${1:${TM_SELECTED_TEXT/("|')//g:string}}"${2:, [styles]}</string>
+	<key>keyEquivalent</key>
+	<string>@u</string>
+	<key>name</key>
+	<string>ins</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>uuid</key>
+	<string>8C440F31-DE54-4C3E-A078-7BA9B7CB50FE</string>
+</dict>
+</plist>

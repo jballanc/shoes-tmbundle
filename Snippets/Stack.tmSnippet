@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>stack ${1:[styles]} do
+  $0
+end</string>
+	<key>name</key>
+	<string>stack</string>
+	<key>scope</key>
+	<string>source.ruby.shoes</string>
+	<key>tabTrigger</key>
+	<string>stack</string>
+	<key>uuid</key>
+	<string>850636FE-F5F2-4631-B25D-5C754CE0AC5F</string>
+</dict>
+</plist>
