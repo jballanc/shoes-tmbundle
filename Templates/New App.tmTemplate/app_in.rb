@@ -6,5 +6,5 @@
 #
 
 Shoes.app do
-
+	# Just a simple app, yes?
 end
