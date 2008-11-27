@@ -1,9 +1,0 @@
-== A tiny TextMate bundle for the tiny toolkit
-
-Shoes, the tiny toolkit, is a great way to create GUI apps that can run on Windows, Mac OS X, and Linux. Learn more about Shoes at http://code.whytheluckystiff.net/shoes.
-
-This is just a tiny TextMate bundle. Shoes speaks Ruby, so using this bundle requires that you have the Ruby bundle installed and activated.
-
-= Installation
-
-If you just want to use the bundle with TextMate, you can download the repository directly. Rename the resulting folder "Shoes.tmbundle" and just double-click to install (requires TextMate...in case that wasn't already obvious).
