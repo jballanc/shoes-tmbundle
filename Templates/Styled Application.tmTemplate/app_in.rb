@@ -5,7 +5,10 @@
 #  Copyright (c) ${TM_YEAR} ${TM_ORGANIZATION_NAME}. All rights reserved.
 #
 
-Shoes.app(:title => "Title", :width => WIDTH, :height => HEIGHT, :resizeable => true) do
+WIDTH = 640
+HEIGHT = 480
+
+Shoes.app(:title => "Title", :width => WIDTH, :height => HEIGHT, :resizable => true) do
 	flow :width => WIDTH, :height => HEIGHT do
 		stroke black
 		background white
