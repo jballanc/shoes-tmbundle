@@ -8,7 +8,7 @@
 WIDTH = 640
 HEIGHT = 480
 
-Shoes.app(:title => "Title", :width => WIDTH, :height => HEIGHT, :resizable => true) do
+Shoes.app(:title => "Title", :width => WIDTH, :height => HEIGHT, :resizeable => true) do
 	flow :width => WIDTH, :height => HEIGHT do
 		stroke black
 		background white
